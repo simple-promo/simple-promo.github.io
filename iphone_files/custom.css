@@ -1,0 +1,50 @@
+﻿#AppleBanner {
+   height: 390px;
+   filter: none;
+   line-height: 1.35;
+}
+
+#AppleBanner.AppleBanner-iphone5s {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone5s.jpg') no-repeat left top #fff;
+}
+
+#AppleBanner.AppleBanner-iphone5c {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone5c-small.jpg') no-repeat left top #fff;
+}
+
+#AppleBanner.AppleBanner-iphone6 {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone6.jpg') no-repeat left top #fff;
+}
+
+#AppleBanner.AppleBanner-iphone6-colours {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone6-colours.jpg') no-repeat left top #fff;
+}
+
+#AppleBanner.AppleBanner-iphone6s {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone6s.jpg') no-repeat left top #fff;
+}
+
+#AppleBanner.AppleBanner-iphone4s {
+   background: url('http://images.bbycastatic.ca/sf/projects/_content/_weekly/home/applebanner/assets/devices/iphone4s.jpg') no-repeat 240px top #fff;
+}
+
+#AppleBanner sup {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.3em;
+}
+
+#AppleBanner-carriers img {
+    display: inline-block;
+    padding-right: 16px;
+    float: left;
+}
+
+.AppleBanner-swatch {
+    width: 24px;
+    height: 24px;
+}
+
+.iphone5c-blue {
+    background-color: #2c9bd4;
+}
